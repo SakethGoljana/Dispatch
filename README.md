@@ -173,7 +173,7 @@ Dispatch/
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/<your-username>/dispatch.git
+git clone https://github.com/SakethGoljana/Dispatch.git
 cd dispatch
 npm install
 ```
@@ -231,7 +231,8 @@ npx eas-cli@latest update --channel preview --environment preview --message "You
 | Asset | Details | Link |
 | :--- | :--- | :--- |
 | **Dispatch Android APK (v1.0.0)** | Version Code `6`, SDK `58.0.0`, Standalone Installable | [Download APK (EAS Artifact)](https://expo.dev/artifacts/eas/ZMYV1bXPcouSwRPR97MMm_IZiFi6MjiJtYJzUBLmnk8.apk) |
-| **GitHub Release** | Tag `v1.0.0` | `https://github.com/<your-username>/dispatch/releases/latest` |
+| **GitHub Release** | Tag `v1.0.0` | [GitHub Releases Latest](https://github.com/SakethGoljana/Dispatch/releases/latest) |
+| **Direct APK Download** | Permanent Binary Asset | [Download dispatch-v1.0.0.apk](https://github.com/SakethGoljana/Dispatch/releases/latest/download/dispatch-v1.0.0.apk) |
 
 ---
 
