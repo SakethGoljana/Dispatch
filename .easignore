@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# Expo & build outputs
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native generated
+/ios
+/android
+
+# System and temporary
+.git/
+.vscode/
+npm-debug.*
+yarn-debug.*
+*.tsbuildinfo
+.DS_Store

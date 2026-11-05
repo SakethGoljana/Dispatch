@@ -1,0 +1,57 @@
+{
+  "expo": {
+    "name": "Dispatch",
+    "slug": "dispatch",
+    "scheme": "dispatch",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.dispatchsender.app",
+      "versionCode": 6,
+      "adaptiveIcon": {
+        "backgroundColor": "#0B0C0E",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/ae627337-5d90-46cd-9f11-d809ea0baba4"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "minSdkVersion": 24,
+            "compileSdkVersion": 37,
+            "targetSdkVersion": 35
+          }
+        }
+      ],
+      "expo-status-bar",
+      "expo-sharing",
+      "expo-updates"
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "ae627337-5d90-46cd-9f11-d809ea0baba4"
+      }
+    }
+  }
+}
