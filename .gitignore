@@ -40,6 +40,7 @@ yarn-error.*
 # scratch and temporary
 scratch/
 result.json
+*.apk
 
 # generated native folders
 /ios
