@@ -102,6 +102,16 @@ export default function TermsOfServiceScreen() {
                 sakethgoljana098@gmail.com
               </Text>
             </Pressable>
+
+            <Pressable
+              onPress={() => Linking.openURL('https://sakethgoljana.tech')}
+              style={styles.contactRow}
+            >
+              <Ionicons name="globe-outline" size={16} color={colors.primary} />
+              <Text style={[styles.contactLink, { color: colors.primary }]}>
+                sakethgoljana.tech
+              </Text>
+            </Pressable>
           </View>
         </Card>
       </View>

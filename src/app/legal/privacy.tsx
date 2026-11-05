@@ -159,12 +159,32 @@ export default function PrivacyPolicyScreen() {
             </Pressable>
 
             <Pressable
-              onPress={() => Linking.openURL('https://sakethgoljana.github.io/Portfolio/')}
+              onPress={() => Linking.openURL('https://sakethgoljana.tech')}
               style={styles.contactRow}
             >
               <Ionicons name="globe-outline" size={16} color={colors.primary} />
               <Text style={[styles.contactLink, { color: colors.primary }]}>
-                sakethgoljana.github.io/Portfolio
+                sakethgoljana.tech
+              </Text>
+            </Pressable>
+
+            <Pressable
+              onPress={() => Linking.openURL('https://www.linkedin.com/in/saketh-goljana/')}
+              style={styles.contactRow}
+            >
+              <Ionicons name="logo-linkedin" size={16} color="#0A66C2" />
+              <Text style={[styles.contactLink, { color: colors.primary }]}>
+                linkedin.com/in/saketh-goljana
+              </Text>
+            </Pressable>
+
+            <Pressable
+              onPress={() => Linking.openURL('https://github.com/SakethGoljana')}
+              style={styles.contactRow}
+            >
+              <Ionicons name="logo-github" size={16} color={colors.textPrimary} />
+              <Text style={[styles.contactLink, { color: colors.primary }]}>
+                github.com/SakethGoljana
               </Text>
             </Pressable>
           </View>

@@ -240,9 +240,9 @@ npx eas-cli@latest update --channel preview --environment preview --message "You
 
 **Saketh Goljana**  
 Full-Stack Mobile Engineer & Product Designer  
-* 🌐 **Portfolio**: [sakethgoljana.github.io/Portfolio](https://sakethgoljana.github.io/Portfolio/)  
-* 💼 **LinkedIn**: [linkedin.com/in/saketh-goljana-92040b2b8](https://www.linkedin.com/in/saketh-goljana-92040b2b8/)  
-* 🐙 **GitHub**: [@saketh3773](https://github.com/saketh3773)
+* 🌐 **Portfolio**: [sakethgoljana.tech](https://sakethgoljana.tech)  
+* 💼 **LinkedIn**: [linkedin.com/in/saketh-goljana](https://www.linkedin.com/in/saketh-goljana/)  
+* 🐙 **GitHub**: [@SakethGoljana](https://github.com/SakethGoljana)
 
 ---
 

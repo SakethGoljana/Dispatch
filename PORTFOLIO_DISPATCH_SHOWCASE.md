@@ -1,7 +1,8 @@
 # Dispatch — Personalized Bulk WhatsApp Automation Engine
 > **Portfolio Case Study & Showcase Documentation**
 > **Author & Creator:** Saketh Goljana | Full-Stack Mobile Engineer & Product Designer  
-> **Repository Path:** `e:\Message Automation for Bulk Data\SchoolPing`  
+> **Portfolio:** [sakethgoljana.tech](https://sakethgoljana.tech) | **LinkedIn:** [linkedin.com/in/saketh-goljana](https://www.linkedin.com/in/saketh-goljana/) | **GitHub:** [github.com/SakethGoljana](https://github.com/SakethGoljana)  
+> **Repository:** [https://github.com/SakethGoljana/Dispatch](https://github.com/SakethGoljana/Dispatch)  
 > **Source Conversation ID:** `b053a529-3d0f-48b6-aa24-537d3dce0245`
 
 ---
@@ -10,7 +11,8 @@
 * **Product Name**: Dispatch
 * **Category**: Mobile Application / Productivity & Business Automation
 * **Platforms**: Android (Installable `.apk` & Google Play ready) & iOS
-* **Live Standalone APK**: [Download Dispatch APK v1.0.0 (Build 6)](https://expo.dev/artifacts/eas/ZMYV1bXPcouSwRPR97MMm_IZiFi6MjiJtYJzUBLmnk8.apk)
+* **Live GitHub Release APK**: [Download dispatch-v1.0.0.apk (Build 6)](https://github.com/SakethGoljana/Dispatch/releases/latest/download/dispatch-v1.0.0.apk)
+* **GitHub Repository**: [SakethGoljana/Dispatch](https://github.com/SakethGoljana/Dispatch)
 * **EAS Cloud Builds**: [Expo EAS Dashboard](https://expo.dev/accounts/saketh3773/projects/dispatch)
 * **OTA Update Channel**: `preview` (Live instant cloud update pipeline active)
 
@@ -93,7 +95,8 @@ Dispatch processes raw spreadsheets (`.xlsx`, `.xls`, `.csv`), Google Sheets liv
     "Over-The-Air (OTA) updates pipeline and 60 FPS native gradient opening animation",
     "8 Indian regional language templates + official Meta Graph API v21.0 integration"
   ],
-  "apkUrl": "https://expo.dev/artifacts/eas/ZMYV1bXPcouSwRPR97MMm_IZiFi6MjiJtYJzUBLmnk8.apk",
+  "apkUrl": "https://github.com/SakethGoljana/Dispatch/releases/latest/download/dispatch-v1.0.0.apk",
+  "githubUrl": "https://github.com/SakethGoljana/Dispatch",
   "role": "Lead Architect & Mobile Engineer"
 }
 ```

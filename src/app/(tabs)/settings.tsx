@@ -323,8 +323,8 @@ export default function SettingsScreen() {
             {/* Portfolio Website */}
             <Pressable
               onPress={() => {
-                Linking.openURL('https://sakethgoljana.github.io/Portfolio/').catch(() => {
-                  Alert.alert('Unable to Open Link', 'Visit: https://sakethgoljana.github.io/Portfolio/');
+                Linking.openURL('https://sakethgoljana.tech').catch(() => {
+                  Alert.alert('Unable to Open Link', 'Visit: https://sakethgoljana.tech');
                 });
               }}
               style={({ pressed }) => [
@@ -344,7 +344,7 @@ export default function SettingsScreen() {
                   Personal Portfolio
                 </Text>
                 <Text style={[styles.linkBtnSubtitle, { color: isDark ? '#A5B4FC' : '#4F46E5' }]}>
-                  sakethgoljana.github.io/Portfolio
+                  sakethgoljana.tech
                 </Text>
               </View>
               <Ionicons name="open-outline" size={16} color={isDark ? '#A5B4FC' : '#4F46E5'} />
@@ -383,8 +383,8 @@ export default function SettingsScreen() {
             {/* GitHub Profile */}
             <Pressable
               onPress={() => {
-                Linking.openURL('https://github.com/sakethgoljana').catch(() => {
-                  Alert.alert('Unable to Open Link', 'Visit: https://github.com/sakethgoljana');
+                Linking.openURL('https://github.com/SakethGoljana').catch(() => {
+                  Alert.alert('Unable to Open Link', 'Visit: https://github.com/SakethGoljana');
                 });
               }}
               style={({ pressed }) => [
@@ -404,7 +404,7 @@ export default function SettingsScreen() {
                   GitHub
                 </Text>
                 <Text style={[styles.linkBtnSubtitle, { color: colors.textTertiary }]}>
-                  github.com/sakethgoljana
+                  github.com/SakethGoljana
                 </Text>
               </View>
               <Ionicons name="open-outline" size={16} color={colors.textTertiary} />

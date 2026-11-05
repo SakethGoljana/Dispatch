@@ -3,8 +3,9 @@
 **Effective Date:** October 12, 2026  
 **Developer:** Saketh Goljana  
 **Contact:** sakethgoljana098@gmail.com  
-**Portfolio:** [https://sakethgoljana.github.io/Portfolio/](https://sakethgoljana.github.io/Portfolio/)  
+**Portfolio:** [https://sakethgoljana.tech](https://sakethgoljana.tech)  
 **LinkedIn:** [https://www.linkedin.com/in/saketh-goljana/](https://www.linkedin.com/in/saketh-goljana/)  
+**GitHub:** [https://github.com/SakethGoljana](https://github.com/SakethGoljana)  
 
 ---
 
@@ -39,5 +40,6 @@
 For inquiries or questions:
 - **Name:** Saketh Goljana
 - **Email:** sakethgoljana098@gmail.com
-- **Website:** https://sakethgoljana.github.io/Portfolio/
+- **Website:** https://sakethgoljana.tech
+- **GitHub:** https://github.com/SakethGoljana
 - **WhatsApp Support:** +91 90594 78739
