@@ -94,12 +94,12 @@ export default function TermsOfServiceScreen() {
               Creator & Developer of Dispatch
             </Text>
             <Pressable
-              onPress={() => Linking.openURL('mailto:sakethgoljana098@gmail.com')}
+              onPress={() => Linking.openURL('mailto:hello@sakethgoljana.tech')}
               style={styles.contactRow}
             >
               <Ionicons name="mail" size={16} color={colors.primary} />
               <Text style={[styles.contactLink, { color: colors.primary }]}>
-                sakethgoljana098@gmail.com
+                hello@sakethgoljana.tech
               </Text>
             </Pressable>
 

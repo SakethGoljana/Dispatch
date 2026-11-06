@@ -413,8 +413,8 @@ export default function SettingsScreen() {
             {/* Email Contact */}
             <Pressable
               onPress={() => {
-                Linking.openURL('mailto:sakethgoljana098@gmail.com?subject=Dispatch%20App%20Inquiry').catch(() => {
-                  Alert.alert('Email Client Not Found', 'Email: sakethgoljana098@gmail.com');
+                Linking.openURL('mailto:hello@sakethgoljana.tech?subject=Dispatch%20App%20Inquiry').catch(() => {
+                  Alert.alert('Email Client Not Found', 'Email: hello@sakethgoljana.tech');
                 });
               }}
               style={({ pressed }) => [
@@ -434,7 +434,7 @@ export default function SettingsScreen() {
                   Direct Email
                 </Text>
                 <Text style={[styles.linkBtnSubtitle, { color: colors.textSecondary }]}>
-                  sakethgoljana098@gmail.com
+                  hello@sakethgoljana.tech
                 </Text>
               </View>
               <Ionicons name="chevron-forward" size={16} color={colors.textTertiary} />

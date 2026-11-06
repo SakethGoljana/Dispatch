@@ -2,7 +2,7 @@
 
 **Effective Date:** October 12, 2026  
 **Developer:** Saketh Goljana  
-**Contact:** sakethgoljana098@gmail.com  
+**Contact:** hello@sakethgoljana.tech  
 **Portfolio:** [https://sakethgoljana.tech](https://sakethgoljana.tech)  
 **LinkedIn:** [https://www.linkedin.com/in/saketh-goljana/](https://www.linkedin.com/in/saketh-goljana/)  
 **GitHub:** [https://github.com/SakethGoljana](https://github.com/SakethGoljana)  
@@ -39,7 +39,7 @@
 ## 5. Contact & Data Protection Officer
 For inquiries or questions:
 - **Name:** Saketh Goljana
-- **Email:** sakethgoljana098@gmail.com
+- **Email:** hello@sakethgoljana.tech
 - **Website:** https://sakethgoljana.tech
 - **GitHub:** https://github.com/SakethGoljana
 - **WhatsApp Support:** +91 90594 78739

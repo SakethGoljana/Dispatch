@@ -242,7 +242,8 @@ npx eas-cli@latest update --channel preview --environment preview --message "You
 Full-Stack Mobile Engineer & Product Designer  
 * 🌐 **Portfolio**: [sakethgoljana.tech](https://sakethgoljana.tech)  
 * 💼 **LinkedIn**: [linkedin.com/in/saketh-goljana](https://www.linkedin.com/in/saketh-goljana/)  
-* 🐙 **GitHub**: [@SakethGoljana](https://github.com/SakethGoljana)
+* 🐙 **GitHub**: [@SakethGoljana](https://github.com/SakethGoljana)  
+* 📧 **Email**: [hello@sakethgoljana.tech](mailto:hello@sakethgoljana.tech)
 
 ---
 

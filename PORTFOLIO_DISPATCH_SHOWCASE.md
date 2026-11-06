@@ -1,7 +1,7 @@
 # Dispatch — Personalized Bulk WhatsApp Automation Engine
 > **Portfolio Case Study & Showcase Documentation**
 > **Author & Creator:** Saketh Goljana | Full-Stack Mobile Engineer & Product Designer  
-> **Portfolio:** [sakethgoljana.tech](https://sakethgoljana.tech) | **LinkedIn:** [linkedin.com/in/saketh-goljana](https://www.linkedin.com/in/saketh-goljana/) | **GitHub:** [github.com/SakethGoljana](https://github.com/SakethGoljana)  
+> **Portfolio:** [sakethgoljana.tech](https://sakethgoljana.tech) | **Email:** [hello@sakethgoljana.tech](mailto:hello@sakethgoljana.tech) | **LinkedIn:** [linkedin.com/in/saketh-goljana](https://www.linkedin.com/in/saketh-goljana/) | **GitHub:** [github.com/SakethGoljana](https://github.com/SakethGoljana)  
 > **Repository:** [https://github.com/SakethGoljana/Dispatch](https://github.com/SakethGoljana/Dispatch)  
 > **Source Conversation ID:** `b053a529-3d0f-48b6-aa24-537d3dce0245`
 
